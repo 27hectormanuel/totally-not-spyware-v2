@@ -5,9 +5,9 @@ Maintainer: TotallyNotSpyware
 Depends: firmware (>= 12.0)
 Filename: ./debs/tnsjb-agent_0.1.0-1_iphoneos-arm.deb
 Size: 1640
-MD5sum: 8d06d8b01624c5589dc1a6d2e05c2d70
-SHA1: ca14d8d892b2f7559a34da49eab705cef3cd96e0
-SHA256: e7039d4a818198653f880a34c5b90e9da63a742d1f9b16fc4ebfe11e9dd88ffa
+MD5sum: 48059c36426e37be1dd2157bf7ab749f
+SHA1: 11ba457edb599270ccb536301d70739e252b66f4
+SHA256: 6bb76bd9b014423bbfa95fbb0ea9d1cfff2119c6884787960a490c29528e8adf
 Section: System
 Priority: optional
 Description: Local agent for PWA. Provides 127.0.0.1:17385 /ping /rejb /status and registers tnsjb:// URL scheme to open apps by bundle.
