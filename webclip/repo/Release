@@ -1,0 +1,8 @@
+Origin: TotallyNotSpyware
+Label: TNS ReJailbreak Repo
+Suite: stable
+Version: 1.0
+Codename: tns
+Architectures: iphoneos-arm
+Components: main
+Description: TNS agent and tools for PWA re-jailbreak utility.
